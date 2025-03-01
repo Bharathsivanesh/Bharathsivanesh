@@ -1,3 +1,1 @@
-<img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" 
-     alt="Hi, I'm Bharath 👋 Software Developer | Open Source Contributor | Learning & Growing 🚀"
-     title="Hi, I'm Bharath 👋 Software Developer | Open Source Contributor | Learning & Growing 🚀">
+![Image](https://github.com/user-attachments/assets/78546acd-a84b-4ec6-a4be-00eb42f4cb3c)
