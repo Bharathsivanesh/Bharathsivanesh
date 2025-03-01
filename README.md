@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d8b2a135-4449-4b89-b633-2b4754a2ecaa" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/user-attachments/assets/55c3e4d7-47dd-463f-a020-bb8011bb3a0a" alt="Hi, I'm Bharath 👋 I'm a 🚀 Full-Stack Developer 🚀 I ❤️ Learning ">
 </p>
 
 
